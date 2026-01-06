@@ -1,5 +1,11 @@
 # Student Planner Web Application (PHP & MySQL)
-PHP MySQL HTML CSS JavaScript AJAX
+
+![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-5.7-blue?logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![AJAX](https://img.shields.io/badge/AJAX-XML-grey?logo=ajax)
 
 This project is a full-stack web-based Student Planner system designed to help university students manage academic and personal tasks efficiently. The application provides task tracking, prioritization, reminders, and secure user management through a clean and user-friendly interface.
 

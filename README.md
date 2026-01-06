@@ -70,3 +70,7 @@ The application runs on a local development environment (localhost) and is suita
 
 **Muhammad Hafizi (I22023364)**  
 INTI International University  
+
+---
+
+![Main Dashboard](images/dashboard-main.png)
